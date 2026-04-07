@@ -49,7 +49,7 @@ Most goal trackers just let you log goals. KYO goes further — it uses AI to de
 
 | Login | Register | Home |
 |---|---|---|
-| ![login](#) | ![register](#) | ![home](#) |
+| ![login](#assets/image_2026-04-07_214712744.png) | ![register](#) | ![home](#) |
 
 ---
 
